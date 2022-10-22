@@ -10,9 +10,12 @@
 🔗 pip2 install requests
 🔗 pip2 install mechanize
 🔗 pkg install git
+🔗 rm -rf RANDOM
 🔗 git clone https://github.com/PSYCHO-PICCHI/RANDOM.git
 🔗 cd RANDOM
 🔗 python Random.py
+ 
+🆕 VERSION 0.0.2 Enjoy 💜
 
 🖤Thank you For Using My Tools🖤
 
