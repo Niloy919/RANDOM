@@ -1,5 +1,5 @@
 ## <b>Screenshot</b>
-<a href="https://github.com/PSYCHO-PICCHI/RANDOM"><img src="https://i.ibb.co/Wf8Sw0q/Screenshot-20221021-124751.jpg" alt="Screenshot-20221021-124751" border="0"></a>
+[![Picsart-22-10-23-18-52-14-774.jpg](https://i.postimg.cc/B6d7hq6z/Picsart-22-10-23-18-52-14-774.jpg)](https://postimg.cc/TLJc1vnj)
 ## <b>installation</b>
 
 ```
