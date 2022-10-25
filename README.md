@@ -14,7 +14,7 @@
 🔗 cd RANDOM
 🔗 python Random.py
  
-🆕 VERSION 0.0.3 Enjoy 💜
+🆕 VERSION 0.0.4 Enjoy 💜
 
 🖤Thank you For Using My Tools🖤
 
