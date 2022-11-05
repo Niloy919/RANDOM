@@ -2,19 +2,17 @@
 [![Picsart-22-10-23-18-52-14-774.jpg](https://i.postimg.cc/B6d7hq6z/Picsart-22-10-23-18-52-14-774.jpg)](https://postimg.cc/TLJc1vnj)
 ## <b>installation</b>
 ```
-🔗 pkg update
-🔗 pkg upgrade
-🔗 pkg install python
-🔗 pkg install python2
-🔗 pip2 install requests
-🔗 pip2 install mechanize
-🔗 pkg install git
-🔗 rm -rf RANDOM
-🔗 git clone https://github.com/PSYCHO-PICCHI/RANDOM.git
-🔗 cd RANDOM
-🔗 python Random.py
+rm -rf RANDOM 
+
+git clone https://github.com/PSYCHO-PICCHI/RANDOM
+
+cd RANDOM
+
+chmod 777 ERROR
+
+./ERROR
  
-🆕 VERSION 0.0.4 Enjoy 💜
+🆕 VERSION LATEST Enjoy 💜
 
 🖤Thank you For Using My Tools🖤
 
