@@ -2,17 +2,15 @@
 [![Picsart-22-10-23-18-52-14-774.jpg](https://i.postimg.cc/B6d7hq6z/Picsart-22-10-23-18-52-14-774.jpg)](https://postimg.cc/TLJc1vnj)
 ## <b>installation</b>
 ```
+FREE PAK/BD RANDOM CLONING ✌️💥💯
+---------------------------------
+
 rm -rf RANDOM 
-
-git clone https://github.com/PSYCHO-PICCHI/RANDOM
-
+git clone --depth=1 https://github.com/PSYCHO-PICCHI/RANDOM
 cd RANDOM
-
-chmod 777 ERROR
-
-./ERROR
+python Random.py
  
-🆕 VERSION LATEST Enjoy 💜
+🆕 VERSION LATEST ENJOY 💜
 
 🖤Thank you For Using My Tools🖤
 
