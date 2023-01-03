@@ -8,7 +8,7 @@ FREE PAK/BD RANDOM CLONING ✌️💥💯
 rm -rf RANDOM 
 git clone --depth=1 https://github.com/PSYCHO-PICCHI/RANDOM
 cd RANDOM
-python Random.py
+python PICCHI.py
  
 🆕 VERSION LATEST ENJOY 💜
 
