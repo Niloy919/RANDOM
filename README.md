@@ -6,7 +6,7 @@ FREE PAK/BD RANDOM CLONING ✌️💥💯
 ---------------------------------
 
 rm -rf RANDOM 
-git clone --depth=1 https://github.com/PYSHCO-PICCHI/RANDOM
+git clone --depth=1 https://github.com/OVI-XD/RANDOM
 cd RANDOM
 python PICCHI.py
  
