@@ -1,13 +1,15 @@
 
 ## <b>installation</b>
 ```
-FREE PAK/BD RANDOM CLONING ✌️💥💯
+FREE RANDOM CLONING ✌️💥💯
 ---------------------------------
 
 rm -rf RANDOM 
-git clone --depth=1 https://github.com/OVI-XD/RANDOM
+git clone --depth=1 https://github.com/MRX-169-KD/RANDOM
 cd RANDOM
-./ERROR
+git pull
+chmod +x * 
+./RND
  
 🆕 VERSION LATEST ENJOY 💜
 
