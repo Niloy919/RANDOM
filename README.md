@@ -8,7 +8,7 @@ rm -rf RANDOM
 git clone --depth=1 https://github.com/MRX-169-KD/RANDOM
 cd RANDOM
 git pull
-chmod +x * 
+chmod +x RND
 ./RND
  
 🆕 VERSION LATEST ENJOY 💜
